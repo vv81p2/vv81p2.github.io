@@ -1,5 +1,10 @@
 ---
-title: Redis的数据回写机制与持久化
+title:  Redis的数据回写机制与持久化
+date: 2017-10-07 19:26:32
+
+categories: 默认分类 #分类
+tags:
+description:
 ---
 
 
